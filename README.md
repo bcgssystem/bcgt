@@ -1,19 +1,35 @@
-# bcgt
+ bcgt
 
-#！！！The token wallet will be formally open and downloaded in December 21, 2017. Pre-excavation of 19.35483870967742% (only 69.444 #days for the official currency), the team reserved 1.2 Million bcgt, and the remaining 10.8 Million bcgt are all used for airdrop and #project promotion. When the official currency is on line, "bcgt" can be swap to "Guardians" by 1:10. 
-#After the official currency is launched, each mobile phone app requires 1000 Gusrdians to activate the mining function.！！！
-#The permine & token POW,can active at least (24Million*10)/1000=240,000 set of mobile phones (after 3 months when the official currency is launched ),nobody need to buy "guardians" from our team.
-#Token Coin purse mining algorithm: sha256/Scrypt/quark/myr-Groestl/Qubit
-#Name: Guardians-Token
-#Abbreviation:BCGT
-#Interval:60 s
-#The total supply: 62 Million
-#Block award and distribution mechanism:  (start mining time ：2017.12.21 12:00:21)
-#Block 1 :12 Million BCGT for airdrop, project promotion, etc.
-#Block :2 - 250,000 =100 BCGT
-#Block :250,001 - 500,000 =50 BCGT  
-#Half of every 250, 000 block rewards.
-#！！！！The above is the token wallet information ! Please continue to read the official currency！！！！！
+！！！The token wallet will be formally open and downloaded in December 21, 2017. Pre-excavation of 19.35483870967742% (only 69.444 days for the official currency), the team reserved 1.2 Million bcgt, and the remaining 10.8 Million bcgt are all used for airdrop and project promotion. When the official currency is on line, "bcgt" can be swap to "Guardians" by 1:10. 
+After the official currency is launched, each mobile phone app requires 1000 Gusrdians to activate the mining function.！！！
+The permine & token POW,can active at least (24Million*10)/1000=240,000 set of mobile phones (after 3 months when the official currency is launched ),nobody need to buy "guardians" from our team.
+Token Coin purse mining algorithm: sha256/Scrypt/quark/myr-Groestl/Qubit
+Name: Guardians-Token
+Abbreviation:BCGT
+Interval:60 s
+The total supply: 62 Million
+Block award and distribution mechanism:  (start mining time ：2017.12.21 12:00:21)
+Block 1 :12 Million BCGT for airdrop, project promotion, etc.
+Block :2 - 250,000 =100 BCGT
+Block :250,001 - 500,000 =50 BCGT  
+Half of every 250, 000 block rewards.
+
+
+Because the system is too complex, the team's energy all on the system development.
+The team members are too lazy,No one wants to make a pool, explorer,so websiet,airdrop rules，Even translation work has no one to do.
+if you can help us,you will get some "bcgt":
+1、Pool      first   10,000 bcgt/algorithm,  second 2,000 bcgt/algorithm
+2、Explorer  first   10,000 bcgt,            second 2,000 bcgt
+3、Website           50,000 bcgt
+4、Airdrop rules     100,000 bcgt,           
+5、Translation       10,000 bcgt/language
+All above，please mail to：blockchainguardians@gmail.com 
+
+！！！！The above is the token wallet information ! Please continue to read the official currency！！！！！
+
+
+
+
 
 
 
