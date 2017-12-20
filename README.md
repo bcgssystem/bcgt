@@ -8,7 +8,7 @@ Name: Guardians-Token
 Abbreviation:BCGT
 Interval:60 s
 The total supply: 62 Million
-Block award and distribution mechanism:  (start mining time ：2017.12.21 12:00:21)
+Block award and distribution mechanism:  start mining time ：2017.12.21 12:00:21(UTC/GMT -10)
 Block 1 :12 Million BCGT for airdrop, project promotion, etc.
 Block :2 - 250,000 =100 BCGT
 Block :250,001 - 500,000 =50 BCGT  
@@ -16,7 +16,8 @@ Half of every 250, 000 block rewards.
 
 
 Because the system is too complex, the team's energy all on the system development.
-The team members are too lazy,No one wants to make a pool, explorer,so websiet,airdrop rules，Even translation work has no one to do.
+The team members are too lazy,No one wants to make a pool, explorer,so websiet,airdrop rules，
+Even translation work has no one to do.some language just translated directly by Google......
 if you can help us,you will get some "bcgt":
 1、Pool      first   10,000 bcgt/algorithm,  second 2,000 bcgt/algorithm
 2、Explorer  first   10,000 bcgt,            second 2,000 bcgt
