@@ -19,11 +19,11 @@ Because the system is too complex, the team's energy all on the system developme
 The team members are too lazy,No one wants to make a pool, explorer,so websiet,airdrop rules，
 Even translation work has no one to do.some language just translated directly by Google......
 if you can help us,you will get some "bcgt":
-1、Pool      first   5,000 bcgt/algorithm,  second 2,000 bcgt/algorithm
-2、Explorer  first   5,000 bcgt,            second 2,000 bcgt
-3、Website           10,000 bcgt
-4、Airdrop rules     10,000 bcgt,           
-5、Translation       10,000 bcgt/language
+1、Pool      first   10,000 bcgt/algorithm,  second 2,000 bcgt/algorithm
+2、Explorer  first   10,000 bcgt,            second 2,000 bcgt
+3、Website           20,000 bcgt
+4、Airdrop rules     20,000 bcgt,           
+5、Translation       20,000 bcgt/language
 All above，please mail to：blockchainguardians@gmail.com 
 
 ！！！！The above is the token wallet information ! Please continue to read the official currency！！！！！
