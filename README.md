@@ -1,6 +1,6 @@
  bcgt
 
-！！！The token wallet will be formally open and downloaded in December 21, 2017. Premine 49,990,001 19.996% , the team reserved 4,990,001 bcgt, and the remaining 45 Million bcgt are all used for airdrop and project promotion. When the official currency is on line, "bcgt" can be swap to "Guardians" by 1:10. Everyone can swap bcgt to guardians with in-wallet market,No operation of the team is required.
+！！！The token wallet will be formally open and downloaded in December 21, 2017. Premine 49,990,001 19.996% , the team reserved 4,990,001 bcgt, and the remaining 45 Million bcgt are all used for airdrop and project promotion. When the official currency is on line, "bcgt" can be swap to "Guardians" by 1:10. Everyone can swap bcgt to guardians with in-wallet market anytime ,No operation of the team is required.
 After the official currency is launched, each mobile phone app requires 1000 Gusrdians to activate the mining function.！！！
 The permine & token POW,can active at least  (50Million premine+14 Million POW)*10/1000= 64Million*10/1000=640,000 set of mobile phones (after 3 months when the official currency is launched ),nobody need to buy "guardians" from our team.
 Token Coin purse mining algorithm: sha256/Scrypt/quark/myr-Groestl/Qubit
@@ -19,11 +19,11 @@ Because the system is too complex, the team's energy all on the system developme
 The team members are too lazy,No one wants to make a pool, explorer,so websiet,airdrop rules，
 Even translation work has no one to do.some language just translated directly by Google......
 if you can help us,you will get some "bcgt":
-1、Pool      first   10,000 bcgt/algorithm,  second 2,000 bcgt/algorithm
-2、Explorer  first   10,000 bcgt,            second 2,000 bcgt
-3、Website           20,000 bcgt
-4、Airdrop rules     20,000 bcgt,           
-5、Translation       20,000 bcgt/language
+1、Pool      first   100,000 bcgt/algorithm,  second 20,000 bcgt/algorithm
+2、Explorer  first   100,000 bcgt,            second 20,000 bcgt
+3、Website           200,000 bcgt
+4、Airdrop rules     200,000 bcgt,           
+5、Translation       50,000 bcgt/language
 All above，please mail to：blockchainguardians@gmail.com 
 
 ！！！！The above is the token wallet information ! Please continue to read the official currency！！！！！
