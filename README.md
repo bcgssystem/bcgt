@@ -1,13 +1,13 @@
  bcgt
 
-！！！The token wallet will be formally open and downloaded in December 21, 2017. Premine 49,990,001 19.996% , the team reserved 4,990,001 bcgt, and the remaining 45 Million bcgt are all used for airdrop and project promotion. When the official currency is on line, "bcgt" can be swap to "Guardians" by 1:10. Everyone can swap bcgt to guardians with in-wallet market anytime ,No operation of the team is required.
+！！！The token wallet will be formally open and downloaded in December 21, 2017. Premine 49,990,001 19.996% , the team reserved 4,990,001 BCGT, and the remaining 45 Million BCGT are all used for airdrop and project promotion. When the official currency is on line, "BCGT" can be swap to "Guardians" by 1:10. Everyone can swap BCGT to Guardians with in-wallet market anytime ,No operation of the team is required.
 After the official currency is launched, each mobile phone app requires 1000 Gusrdians to activate the mining function.！！！
 The permine & token POW,can active at least  (50Million premine+14 Million POW)*10/1000= 64Million*10/1000=640,000 set of mobile phones (after 3 months when the official currency is launched ),nobody need to buy "guardians" from our team.
 Token Coin purse mining algorithm: sha256/Scrypt/quark/myr-Groestl/Qubit
 Name: Guardians-Token
 Abbreviation:BCGT
 Interval:60 s
-The total supply: 62 Million
+The total supply: 2,500,000,000 BCGT
 Block award and distribution mechanism:  start mining time ：2017.12.21 12:00:21(UTC/GMT -10)
 Block 1 :49,990,001 BCGT for airdrop, project promotion, etc.
 Block :2 - 10,000 =1 BCGT
@@ -40,18 +40,14 @@ Mobile-mine+cpu/gpu/asic-mine+masternode+Fondation
 No pos, donate；no ico；airdrop ；perpetual pow；just coins, exchange of tokens is limited to guardians.
 algos: sha256/Scrypt/X11/myr-Groestl/Qubit/X13/EtHash/Equihash/Lyra2REv2(undetermined)
 
-Our potential competitors include bitcoin, WeChat, ASIC miners, ASIC producers, central banks, and so on.
+Our potential competitors include bitcoin, other Altcoins, Chat tools, ASIC miners, ASIC producers, Markets ,central banks, and so on.
 If you have the ability to complete the project alone, you can learn from it, copy it and copy our creativity. As long as it is for the healthy development of the virtual currency, we are willing to see the re centralization of the virtual currency.
-Of course, we want you to join our team and promote the development of the project together.
+Of course, we hope you to join our team and promote the development of the project together.
+
 Name: Block /chain /Guardians
 Abbreviation: block/chain/guardians   A wallet has three coins
-Type: Mobile phone check-in &cpu/gpu/asic minning &masternode&Foundation Hybrid，pow forever
+Type: Mobile phone check-in mine,cpu/gpu/asic mine ,masternode,Foundation Hybrid，pow forever
 Mining algorithm: sha256/Scrypt/X11/myr-Groestl/Qubit/X13/EtHash/Equihash/Lyra2REv2（undetermined）
-
-mine in advance: 
-(#1 Block) ;permine:0.0429% project startup; (airdrop token swap, That's just 69.444 days of pow production ), Exchange of tokens is limited to guardians.
-9,001 block/36,001chain/1,092,001(for masternode&app）+1000,000,000（for airdrop）guardians 
-9 masternodes are set up, activate &active 12 app miners to be destroyed when the total network reaches 1000 masternodes. When the 12 app is activated, it has been permanently consumed guardians.
 
 
 A free exchange of three currencies in the wallet, please note that it is not a fixed ratio, equivalent to a built-in market, which can increase the currency.
@@ -60,9 +56,19 @@ The total supply of block 21,000,000/chain 48,000,000/Guardians: no limit
 The master node requirement: block 1000/chain 4000/Guardians 120,000 demand
 Transfer accounts: block 6 confirmation /chain 6 confirmation /Guardians 3 confirmation
 Mature: block 120 /chain 120 confirmation/Guardians 120 confirmation
-Wallet Address: 3 currencies with the same bitcoin address
+Wallet Address: 3 currencies with the same wallet address
+
+mine in advance: 
+(#1 Block) ;permine:0.0429% project startup; (airdrop token swap, That's just 69.444 days of pow production ), Exchange of tokens is limited to guardians.
+9,001 block
+36,001 chain
+1,092,001(for masternode&app）+10,000,000,000（for airdrop and pow token swap）guardians 
+9 masternodes are set up, activate &active 12 app miners to be destroyed when the total network reaches 1000 masternodes. When the 12 app is activated, it has been permanently consumed guardians.
+
+
 
 Block and reward allocation mechanism (start mining time: stay tuned)
+9,001 block/36,001 chain/1,092,001(for masternode&app）+10,000,000,000（for airdrop token and pow token swap）guardians 
 Block 2 - 10000 =  block 0.125/chain 2/Guardians 12
 Block 10001 - 2,110,000 = block 12.5/chain 200/Guardians 1200  
 Block&chain The output is halved after every 2100000 blocks (only one block block award and one chain block award in an average of 12 blocks), Guardians 1200 forever
