@@ -1,6 +1,6 @@
  bcgt
 
-！！！The token wallet will be formally open and downloaded in December 21, 2017. Pre-excavation of 19.35483870967742% (only 69.444 days for the official currency), the team reserved 1.2 Million bcgt, and the remaining 10.8 Million bcgt are all used for airdrop and project promotion. When the official currency is on line, "bcgt" can be swap to "Guardians" by 1:10. 
+！！！The token wallet will be formally open and downloaded in December 21, 2017. Pre-excavation of 19.35483870967742% (only 69.444 days for the official currency), the team reserved 1.2 Million bcgt, and the remaining 10.8 Million bcgt are all used for airdrop and project promotion. When the official currency is on line, "bcgt" can be swap to "Guardians" by 1:10. everyone can swap bcgt to guardians with in-wallet market,No operation of the team is required.
 After the official currency is launched, each mobile phone app requires 1000 Gusrdians to activate the mining function.！！！
 The permine & token POW,can active at least (24Million*10)/1000=240,000 set of mobile phones (after 3 months when the official currency is launched ),nobody need to buy "guardians" from our team.
 Token Coin purse mining algorithm: sha256/Scrypt/quark/myr-Groestl/Qubit
@@ -10,7 +10,7 @@ Interval:60 s
 The total supply: 62 Million
 Block award and distribution mechanism:  start mining time ：2017.12.21 12:00:21(UTC/GMT -10)
 Block 1 :12 Million BCGT for airdrop, project promotion, etc.
-Block :2 - 250,000 =100 BCGT
+Block :2 - 250,000 =1 BCGT
 Block :250,001 - 500,000 =50 BCGT  
 Half of every 250, 000 block rewards.
 
