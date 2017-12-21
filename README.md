@@ -9,10 +9,10 @@ Abbreviation:BCGT
 Interval:60 s
 The total supply: 62 Million
 Block award and distribution mechanism:  start mining time ：2017.12.21 12:00:21(UTC/GMT -10)
-Block 1 :12 Million BCGT for airdrop, project promotion, etc.
-Block :2 - 250,000 =1 BCGT
-Block :250,001 - 500,000 =50 BCGT  
-Half of every 250, 000 block rewards.
+Block 1 :49,990,001 BCGT for airdrop, project promotion, etc.
+Block :2 - 10,000 =1 BCGT
+Block :10,001 - 1,000,000 =100 BCGT  
+Half of every 1,000, 000 block rewards.(about 694 days)
 
 
 Because the system is too complex, the team's energy all on the system development.
